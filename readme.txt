@@ -8,11 +8,11 @@ Stable tag: 3.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is Bootstrap Flex Slider plugin. Its used for Bootstrao v3x Themes
+This is Bootstrap Flex Slider plugin. Its used for Bootstrap version 3x Themes
 
 == Description ==
 
-This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its have admin controls options, Navigation and Directions options in admin panel
+This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its have admin controls options, Navigation and Directions options in admin panel. 
 
 = Custom Options =
 	
@@ -26,8 +26,6 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 == Installation ==
 
 	1. Add Short code [display_flexslider]
-
-Activate the widget named as PropertySearchWidget
 
 == Frequently Asked Questions ==
 
