@@ -52,7 +52,7 @@ jQuery(function() {
             	<h3>Short Codes</h3>
                 <div class="tab tab-3">
                 	<label>Shortcode</label>
-                    <input class="ui-corner-all regular-text" readonly type="text"  value="[display_flexslider]" />
+                    <input class="ui-corner-all regular-text" readonly type="text"  value="[display_flexslider]" onclick="this.focus" />
                 </div>
             </div>
 			<p class="submit">

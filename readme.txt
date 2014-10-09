@@ -3,8 +3,8 @@ Contributors: rajanit2000
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ
 Tags: Bootstrap Flex Slider, Flex Slider, Bootstrap Slider, Responsive Slider, Slider, Bootstrap, Flexslider
 Requires at least: 3.0
-Tested up to: 3.9
-Stable tag: 3.9
+Tested up to: 4.0
+Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,10 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 = 1.0 =
 
 * New: Flex Slider plugin 
+
+= 1.0.1 =
+
+* Update: Some core code
 
 
 == Upgrade Notice ==
