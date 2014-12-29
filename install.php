@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: WP Smart Flexslider
-Author: <strong>Rajan V</strong>
+Author: <strong>Rajan V, A2Z Technologies</strong>
 Version: 1.0.1
 Description: This is Flex Slider plugin. Its use Bootstrap 3x Themes to create easy Sliders.
 */

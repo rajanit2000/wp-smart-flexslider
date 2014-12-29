@@ -1,6 +1,5 @@
 === WP Smart Flexslider ===
-Contributors: rajanit2000
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ
+Contributors: rajanit2000,a2ztechnologies
 Tags: Bootstrap Flex Slider, Flex Slider, Bootstrap Slider, Responsive Slider, Slider, Bootstrap, Flexslider
 Requires at least: 3.0
 Tested up to: 4.0
@@ -18,10 +17,6 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 	
 	1. Install Plugin
 	2. Add Short code [display_flexslider]
-
-= Make me a beer =
-
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ)
 
 == Installation ==
 
