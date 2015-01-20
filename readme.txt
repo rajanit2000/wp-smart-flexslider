@@ -1,9 +1,9 @@
 === WP Smart Flexslider ===
 Contributors: rajanit2000,a2ztechnologies
-Tags: Bootstrap Flex Slider, Flex Slider, Bootstrap Slider, Responsive Slider, Slider, Bootstrap, Flexslider
+Tags: Bootstrap Flex Slider, Flex Slider, Bootstrap Slider, Responsive Slider, Slider, Bootstrap, Flexslider, Bootstrap Slider, Image Slider
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 4.0
+Tested up to: 4.1
+Stable tag: 4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,4 +52,4 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 
 == Upgrade Notice ==
 
-The current version of WP Smart Flexslider requires WordPress 3.0 or higher. If you use older version of WordPress, you need to upgrade WordPress first.
+The current version of WP Smart Flexslider requires WordPress 3.0 or higher. If you use older version of WordPress, you need to upgrade WordPress first.,   
