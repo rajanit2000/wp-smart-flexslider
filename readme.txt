@@ -2,8 +2,8 @@
 Contributors: rajanit2000,a2ztechnologies
 Tags: Bootstrap Flex Slider, Flex Slider, Bootstrap Slider, Responsive Slider, Slider, Bootstrap, Flexslider, Bootstrap Slider, Image Slider
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 4.1
+Tested up to: 4.1.1
+Stable tag: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,10 +34,17 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 	
 	http://getbootstrap.com/javascript/#carousel
 
+= Video Demo =
+
+Its just demo for how to how to use this plugin
+
+[vimeo http://vimeo.com/122175193]
+
 == Screenshots ==
 
 1. screenshot-1.png 
 2. screenshot-2.png 
+
 
 == Changelog ==
 
@@ -48,6 +55,11 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 = 1.0.1 =
 
 * Update: Some core code
+
+= 1.1 =
+
+* Add: Add vodeo documentstion
+* Update: Add code issues
 
 
 == Upgrade Notice ==

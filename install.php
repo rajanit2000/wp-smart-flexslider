@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Smart Flexslider
 Author: <strong>Rajan V, A2Z Technologies</strong>
-Version: 1.0.1
+Version: 1.1
 Description: This is Flex Slider plugin. Its use Bootstrap 3x Themes to create easy Sliders.
 */
 
@@ -57,7 +57,6 @@ function initial(){
 	'supports' =>array( 'title', 'editor', 'thumbnail' )
 	); 
 	register_post_type('flexslider', $args);
-	
 }
 
 add_action('admin_menu', 'my_plugin_menu');
@@ -87,6 +86,7 @@ function display_flexslider_func( $atts ) {
             <div class="item <?php if($i == 1){?> active <?php $i++; }?>">
                 <?php the_post_thumbnail( 'full' );?>
                 <div class="carousel-caption">
+                	<h3><?php the_title();?></h3>
                     <?php the_content();?>
                 </div>
             </div>
