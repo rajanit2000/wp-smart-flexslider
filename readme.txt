@@ -18,9 +18,27 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 	1. Install Plugin
 	2. Add Short code [display_flexslider]
 
+= Video Demo =
+
+Its just demo for how to how to use this plugin
+
+[vimeo http://vimeo.com/122175193]
+
+= Frequently Asked Questions =
+
+1. Which version bootstrap theme required for this plugin?
+
+	Bootstrap 3.0 or later
+
+2. Its required any JS or CSS file?
+
+	No, Not needed. Its working on Bootstrap default JS and Css
+	
+	http://getbootstrap.com/javascript/#carousel
+
 == Installation ==
 
-	1. Add Short code [display_flexslider]
+	Add this Short code [display_flexslider] from your theme or page
 
 == Frequently Asked Questions ==
 
@@ -33,12 +51,6 @@ This is Bootstrap Flex Slider plugin. Its used for Bootstrap v3x Themes. Its hav
 	No, Not needed. Its working on Bootstrap default JS and Css
 	
 	http://getbootstrap.com/javascript/#carousel
-
-= Video Demo =
-
-Its just demo for how to how to use this plugin
-
-[vimeo http://vimeo.com/122175193]
 
 == Screenshots ==
 
