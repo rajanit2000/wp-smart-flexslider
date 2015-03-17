@@ -58,7 +58,7 @@ jQuery(function() {
                 <h3>Help & Support</h3>
                 <div class="tab tab-4">
                 	<p>Thanks for using our Plugin. This is <a href="http://a2ztechnologies.in" target="_blank">a2z technologies</a>. Since our inception in 2006 we had been striving out to make companies harness the power of internet and to hone their online presence. Website Design, eCommerce, Graphic design,Community Building and Internet Technology services in the web 2.0 era, are our core area of expertise. Our team can serve up a smorgasbord of services and products into web design & development. Get in touch with us for your requirements.</p>
-                    <p>For paid service <a href="http://a2ztechnologies.in/contact-us/" target="_blank">request quote click here </a> (Fox single payment to fix both design and development issues)</p>
+                    <p>For paid service <a href="http://a2ztechnologies.in/request-a-quote/" target="_blank">request quote click here </a> (Fox single payment to fix both design and development issues)</p>
                     <p>If you need free service just follow the wordpress <a href="https://wordpress.org/support/plugin/wp-smart-flexslider" target="_blank">fourm</a> </p>
                 </div>
             </div>
