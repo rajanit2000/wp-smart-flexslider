@@ -1,5 +1,5 @@
 === WP Smart Flexslider ===
-Contributors: rajanit2000,a2ztechnologies
+Contributors: rajanit2000
 Tags: Bootstrap Flex Slider, Flex Slider, Bootstrap Slider, Responsive Slider, Slider, Bootstrap, Flexslider, Bootstrap Slider, Image Slider
 Requires at least: 3.0
 Tested up to: 4.1.1
